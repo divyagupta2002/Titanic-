@@ -13,6 +13,7 @@ Welcome to Scratch That Titanic Predictable Passengers! This project is focused 
 - Python
 - Pandas
 - Matplotlib
+- Seabron
 - Scikit-learn
 - Titanic passenger dataset
 
@@ -22,12 +23,12 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository
     ```
-    $ git clone https://github.com/[username]/scratch-that-titanic-predictable-passengers.git
+    $ git clone https://github.com/divyagupta2002/Titanic-predictable-passengers.git
     ```
 
 2. Navigate to the cloned repository
     ```
-    $ cd scratch-that-titanic-predictable-passengers
+    $ cd Titanic-predictable-passengers
     ```
 
 3. Install the required dependencies
@@ -48,4 +49,4 @@ If you would like to contribute to Scratch That Titanic Predictable Passengers, 
 
 ## Contact
 
-If you have any questions or feedback, please don't hesitate to reach out to me at [email address]. I would love to hear from you!
+If you have any questions or feedback, please don't hesitate to reach out to me at divyagupta20@iitk.ac.in. I would love to hear from you!
